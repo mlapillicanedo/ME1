@@ -6,16 +6,11 @@
 **A cargo de:** Cymberknop, Leandro Javier
 **Destinatarios:** Unidad de Prevención Cardiovascular del CIBIO 
 **Alumnos:** Lapilli Cañedo, Mariano Adrián
-
              Robledo, Leandro Nahuel 
-             
              Oléa Gasalla, Ignacio Ezequiel
-             
              Trombetta Nicolás
 **Docentes:** De Césare, Pablo Nicolás
-
               Rodriguez Colmeiro, Ramiro
-              
               Zaccra, Franco
 ---
 
